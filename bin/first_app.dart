@@ -11,6 +11,7 @@ void main() {
     'samsung s6 edge',
     'apple',
     'sam s6'
+    'poco x3 pro',
   ];
   List<String> appleKeyWord = ['apple', 'aple'];
   bool again = true;
